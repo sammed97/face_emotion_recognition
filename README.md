@@ -1,5 +1,5 @@
 # Live Class Monitoring System- Face Emotion Recognition
-![image](https://user-images.githubusercontent.com/85985250/160456385-112d0d64-74cd-46a2-b116-7b9476fd31de.png)
+
 
 ## Project Introduction:
 The Indian education landscape has been undergoing rapid changes for the past 10 years owing to the advancement of web-based learning services, specifically, eLearning platforms. 
